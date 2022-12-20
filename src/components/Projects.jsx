@@ -27,8 +27,8 @@ export default function () {
                                     <h4 className='card-title'>My Portfolio Website</h4>
                                     <p className='card-text text-muted'>This was compeleted using react library. For styling bootstrap was utilized.</p>
                                     <div className='row g-1 mt-auto'>
-                                        <a href="#" class="col-12 col-lg btn btn-primary me-lg-1" target='_blank'>Demo</a>
-                                        <a href="#" class="col-12 col-lg btn btn-outline-primary" target='_blank'>Repo</a>
+                                        <a href="https://hasanmtasnimul.github.io" class="col-12 col-lg btn btn-primary me-lg-1" target='_blank'>Demo</a>
+                                        <a href="https://github.com/hasanmtasnimul/hasanmtasnimul.github.io" class="col-12 col-lg btn btn-outline-primary" target='_blank'>Repo</a>
                                     </div>
                                 </div>
                             </div>
